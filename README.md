@@ -125,11 +125,3 @@ This project analyzes the factors affecting the length of hospital stays after s
 
 - **Best Model:** Forward Selection model with 99.99% adjusted R-squared.
 
-### 6. 📚 References
-
-1. Işık H., & Tunçel S. (2024). Applications of Regression Analysis in Medical Studies. *Hacettepe University Statistics Department.*
-2. Ridge Regression and Multicollinearity Solutions. (2024). *Hacettepe University Statistics Department.*
-
----
-
-This markdown now includes all the key analyses and results from your report, making it a comprehensive and professional README for your GitHub repository. Let me know if there's anything else you'd like to add or modify!
